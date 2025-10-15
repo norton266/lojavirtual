@@ -1,0 +1,7 @@
+from .carrinhoDeComprasSerializer import CarrinhoDeComprasSerializer
+from .carrinhoProdutoSerializer import CarrinhoProdutoSerializer
+from .enderecoSerializer import EnderecoSerializer
+from .pagamentoSerializer import PagamentoSerializer
+from .pedidoSerializer import PedidoSerializer
+from .produtoSerializer import ProdutoSerializer
+from .userSerializer import UserSerializer
